@@ -1,0 +1,4 @@
+ckiptagger==0.1.1
+gdown==3.11.1
+numpy==1.19.0
+tensorflow==1.15.0
